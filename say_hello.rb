@@ -16,3 +16,4 @@ end
 tip_calculator(60, 0.15)
 tip_calculator(60)
 tip_calculator(0.3)
+
